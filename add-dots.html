@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Add a new point to the space map</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <form action="">
+        <div style="display: flex">
+            <fieldset>
+                <legend>Country name:</legend>
+
+                <div>
+                    <input type="text" name="countryName" id="countryName" placeholder="Name" required>
+                </div>
+            </fieldset>
+            
+            <fieldset id="size">
+                <legend>Select the country size:</legend>
+
+                <div>
+                    <select name="countryRadius" id="countryRadius">
+                        <option value="S">1 – Small</option>
+                        <option value="M">2 – Medium</option>
+                        <option value="L">3 – Large</option>
+                    </select>
+                </div>
+            </fieldset>
+        </div>
+
+        <div style="display: flex">
+            <fieldset>
+                <legend>HDI Score:</legend>
+
+                <div>
+                    <input type="number" step="0.001" min="0" max="1" name="countryHdi" id="countryHdi" placeholder="HDI score" required>
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>EF Score:</legend>
+
+                <div>
+                    <input type="number" step="0.000001" min="0" max="50" name="countryEf" id="countryEf" placeholder="EF score" required>
+                </div>
+            </fieldset>
+        </div>
+
+        <div style="display: flex">
+            <fieldset id="type">
+                <legend>Type of the country:</legend>
+
+                <div>
+                    <select name="countryType" id="countryType">
+                        <option value="Build">Build</option>
+                        <option value="Grow">Grow</option>
+                        <option value="Shift">Shift</option>
+                    </select>
+                </div>
+            </fieldset>
+
+            <fieldset id="color">
+                <legend>Select the country color:</legend>
+
+                <div>
+                    <select name="countryColor" id="countryColor">
+                        <option value="#665A51">Gold</option>
+                        <option value="#1EBEBE">Blue</option>
+                        <option value="#E34A1F">Orange</option>
+                    </select>
+                </div>
+            </fieldset>
+        </div>
+        
+
+        <div style="display: flex">
+            <fieldset>
+                <legend>Country position in queue on the ring (increasing automatically):</legend>
+
+                <div>
+                    <input type="number" name="countryPosition" id="countryPosition" value="1" required min="1">
+                </div>
+            </fieldset>
+
+            <fieldset>
+                <legend>Ring on which will be placed the country:</legend>
+
+                <div>
+                    <select name="countryRing" id="countryRing" required>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                    </select>
+                </div>
+            </fieldset>
+        </div>
+
+        <button id="addCountry">Add the country</button>
+    </form>
+
+    <script src="https://www.gstatic.com/firebasejs/7.6.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-database.js"></script>
+
+    <script src="./add-dots.js"></script>
+</body>
+</html>

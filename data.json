@@ -1,0 +1,19 @@
+[{
+    "name": "Russia",
+    "radius": 1,
+    "ring": 3,
+    "angle": 0,
+    "color": "#FD853F"
+}, {
+    "name": "USA",
+    "radius": 1,
+    "ring": 1,
+    "angle": 0,
+    "color": "#98835F"
+}, {
+    "name": "Netherlands",
+    "radius": 3,
+    "ring": 2,
+    "angle": 0,
+    "color": "#46AAF2"
+}]

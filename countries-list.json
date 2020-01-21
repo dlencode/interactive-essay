@@ -1,0 +1,1579 @@
+{
+    "countries" : {
+        "Qatar" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.855,
+            "ef": 14.41108,
+            "position": 1
+        },
+        "Luxembourg" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.904,
+            "ef": 12.9111,
+            "position": 1
+        },
+        "United Arab Emirates" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.862,
+            "ef": 8.918985,
+            "position": 1
+        },
+        "Bahrain" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.846,
+            "ef": 8.633621,
+            "position": 1
+        },
+        "Kuwait" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.804,
+            "ef": 8.585227,
+            "position": 1
+        },
+        "Trinidad and Tobago" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.785,
+            "ef": 8.378179,
+            "position": 1
+        },
+        "United States of America" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.922,
+            "ef": 8.104394,
+            "position": 1
+        },
+        "Canada" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.922,
+            "ef": 7.740135,
+            "position": 1
+        },
+        "Mongolia" : {
+            "radius": "L",
+            "ring": 6,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.743,
+            "ef": 7.672155,
+            "position": 1
+        },
+        "Estonia" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.868,
+            "ef": 7.063777,
+            "position": 1
+        },
+        "Denmark" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.928,
+            "ef": 6.798011,
+            "position": 1
+        },
+        "Oman" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.822,
+            "ef": 6.763584,
+            "position": 1
+        },
+        "Australia" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.938,
+            "ef": 6.640309,
+            "position": 1
+        },
+        "Sweden" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.932,
+            "ef": 6.457298,
+            "position": 1
+        },
+        "Latvia" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.844,
+            "ef": 6.356949,
+            "position": 1
+        },
+        "Finland" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.918,
+            "ef": 6.256846,
+            "position": 1
+        },
+        "Belgium" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.915,
+            "ef": 6.245329,
+            "position": 1
+        },
+        "Saudi Arabia" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.854,
+            "ef": 6.233826,
+            "position": 1
+        },
+        "Austria" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.906,
+            "ef": 6.030926,
+            "position": 1
+        },
+        "Korea" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.9,
+            "ef": 6.000496,
+            "position": 1
+        },
+        "Singapore" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.93,
+            "ef": 5.87915,
+            "position": 1
+        },
+        "Malta" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.875,
+            "ef": 5.792532,
+            "position": 1
+        },
+        "Czech Republic" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.885,
+            "ef": 5.589134,
+            "position": 1
+        },
+        "Lithuania" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.855,
+            "ef": 5.56706,
+            "position": 1
+        },
+        "Kazakhstan" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.797,
+            "ef": 5.546108,
+            "position": 1
+        },
+        "Norway" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.951,
+            "ef": 5.51086,
+            "position": 1
+        },
+        "Belize" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.709,
+            "ef": 5.352775,
+            "position": 1
+        },
+        "Turkmenistan" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.705,
+            "ef": 5.319438,
+            "position": 1
+        },
+        "Russia" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.815,
+            "ef": 5.159919,
+            "position": 1
+        },
+        "Ireland" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.934,
+            "ef": 5.126992,
+            "position": 1
+        },
+        "Slovenia" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.894,
+            "ef": 5.125379,
+            "position": 1
+        },
+        "Israel" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.902,
+            "ef": 4.875548,
+            "position": 1
+        },
+        "Germany" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.934,
+            "ef": 4.8406,
+            "position": 1
+        },
+        "Netherlands" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.928,
+            "ef": 4.826174,
+            "position": 1
+        },
+        "New Zealand" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.915,
+            "ef": 4.742489,
+            "position": 1
+        },
+        "Switzerland" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.943,
+            "ef": 4.637014,
+            "position": 1
+        },
+        "Japan" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.907,
+            "ef": 4.492709,
+            "position": 1
+        },
+        "Bhutan" : {
+            "radius": "L",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.609,
+            "ef": 4.491795,
+            "position": 1
+        },
+        "France" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.899,
+            "ef": 4.447238,
+            "position": 1
+        },
+        "Italy" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.878,
+            "ef": 4.436457,
+            "position": 1
+        },
+        "Poland" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.86,
+            "ef": 4.427801,
+            "position": 1
+        },
+        "United Kingdom" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.92,
+            "ef": 4.36805,
+            "position": 1
+        },
+        "Antigua and Barbuda" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.778,
+            "ef": 4.331066,
+            "position": 1
+        },
+        "Chile" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.842,
+            "ef": 4.3113,
+            "position": 1
+        },
+        "Greece" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.868,
+            "ef": 4.26817,
+            "position": 1
+        },
+        "Brunei Darussalam" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.852,
+            "ef": 4.221507,
+            "position": 1
+        },
+        "Slovakia" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.853,
+            "ef": 4.206185,
+            "position": 1
+        },
+        "Portugal" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.845,
+            "ef": 4.100471,
+            "position": 1
+        },
+        "Spain" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.889,
+            "ef": 4.040862,
+            "position": 1
+        },
+        "Belarus" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.805,
+            "ef": 3.986802,
+            "position": 1
+        },
+        "Croatia" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.828,
+            "ef": 3.936534,
+            "position": 1
+        },
+        "Malaysia" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.799,
+            "ef": 3.918383,
+            "position": 1
+        },
+        "Barbados" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.799,
+            "ef": 3.804285,
+            "position": 1
+        },
+        "Cyprus" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.867,
+            "ef": 3.747826,
+            "position": 1
+        },
+        "Bahamas" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.806,
+            "ef": 3.738534,
+            "position": 1
+        },
+        "Libya" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.693,
+            "ef": 3.733129,
+            "position": 1
+        },
+        "Bosnia and Herzegovina" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.766,
+            "ef": 3.699489,
+            "position": 1
+        },
+        "Montenegro" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.81,
+            "ef": 3.650513,
+            "position": 1
+        },
+        "China" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.748,
+            "ef": 3.620902,
+            "position": 1
+        },
+        "Hungary" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.835,
+            "ef": 3.611955,
+            "position": 1
+        },
+        "Mauritius" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.788,
+            "ef": 3.522458,
+            "position": 1
+        },
+        "Bulgaria" : {
+            "radius": "L",
+            "ring": 2,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.81,
+            "ef": 3.445613,
+            "position": 1
+        },
+        "Tonga" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.724,
+            "ef": 3.395724,
+            "position": 1
+        },
+        "Guyana" : {
+            "radius": "L",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.652,
+            "ef": 3.385517,
+            "position": 1
+        },
+        "Argentina" : {
+            "radius": "L",
+            "ring": 2,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.822,
+            "ef": 3.36505,
+            "position": 1
+        },
+        "Turkey" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.787,
+            "ef": 3.357564,
+            "position": 1
+        },
+        "Lebanon" : {
+            "radius": "L",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.753,
+            "ef": 3.287463,
+            "position": 1
+        },
+        "Iran" : {
+            "radius": "L",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.796,
+            "ef": 3.191068,
+            "position": 1
+        },
+        "Bolivia" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.689,
+            "ef": 3.184442,
+            "position": 1
+        },
+        "South Africa" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.696,
+            "ef": 3.151458,
+            "position": 1
+        },
+        "Fiji" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.738,
+            "ef": 3.145397,
+            "position": 1
+        },
+        "Romania" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.807,
+            "ef": 3.093808,
+            "position": 1
+        },
+        "Serbia" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.785,
+            "ef": 2.992091,
+            "position": 1
+        },
+        "Suriname" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.719,
+            "ef": 2.965378,
+            "position": 1
+        },
+        "Samoa" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.711,
+            "ef": 2.960656,
+            "position": 1
+        },
+        "Grenada" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.77,
+            "ef": 2.934777,
+            "position": 1
+        },
+        "Macedonia" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.756,
+            "ef": 2.92429,
+            "position": 1
+        },
+        "Ukraine" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.746,
+            "ef": 2.908519,
+            "position": 1
+        },
+        "Paraguay" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.702,
+            "ef": 2.90307,
+            "position": 1
+        },
+        "Brazil" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.758,
+            "ef": 2.811444,
+            "position": 1
+        },
+        "Botswana" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.712,
+            "ef": 2.720639,
+            "position": 1
+        },
+        "Costa Rica" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.791,
+            "ef": 2.682116,
+            "position": 1
+        },
+        "Mexico" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.772,
+            "ef": 2.602675,
+            "position": 1
+        },
+        "Venezuela" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.766,
+            "ef": 2.539808,
+            "position": 1
+        },
+        "Namibia" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.645,
+            "ef": 2.5,
+            "position": 1
+        },
+        "Thailand" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.748,
+            "ef": 2.487645,
+            "position": 1
+        },
+        "Solomon Islands" : {
+            "radius": "M",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.543,
+            "ef": 2.426263,
+            "position": 1
+        },
+        "Algeria" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.753,
+            "ef": 2.407316,
+            "position": 1
+        },
+        "Djibouti" : {
+            "radius": "M",
+            "ring": 6,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.474,
+            "ef": 2.398934,
+            "position": 1
+        },
+        "Dominica" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.718,
+            "ef": 2.360274,
+            "position": 1
+        },
+        "Saint Lucia" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.745,
+            "ef": 2.33,
+            "position": 1
+        },
+        "Mauritania" : {
+            "radius": "M",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.516,
+            "ef": 2.315617,
+            "position": 1
+        },
+        "Gabon" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.698,
+            "ef": 2.291574,
+            "position": 1
+        },
+        "Panama" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.785,
+            "ef": 2.252415,
+            "position": 1
+        },
+        "Peru" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.748,
+            "ef": 2.238179,
+            "position": 1
+        },
+        "Tunisia" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.732,
+            "ef": 2.194933,
+            "position": 1
+        },
+        "Vietnam" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.689,
+            "ef": 2.122372,
+            "position": 1
+        },
+        "Georgia" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.776,
+            "ef": 2.121985,
+            "position": 1
+        },
+        "Azerbaijan" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.757,
+            "ef": 2.080505,
+            "position": 1
+        },
+        "Jordan" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.735,
+            "ef": 2.079742,
+            "position": 1
+        },
+        "El Salvador" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.679,
+            "ef": 2.056634,
+            "position": 1
+        },
+        "Colombia" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.747,
+            "ef": 2.049904,
+            "position": 1
+        },
+        "Albania" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.782,
+            "ef": 2.007807,
+            "position": 1
+        },
+        "Ghana" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.588,
+            "ef": 1.969019,
+            "position": 1
+        },
+        "Armenia" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.749,
+            "ef": 1.934902,
+            "position": 1
+        },
+        "Uzbekistan" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.703,
+            "ef": 1.922904,
+            "position": 1
+        },
+        "Uruguay" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Shift",
+            "color": "#46AAF2",
+            "hdi": 0.802,
+            "ef": 1.920235,
+            "position": 1
+        },
+        "Laos" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.598,
+            "ef": 1.90578,
+            "position": 1
+        },
+        "Guatemala" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.649,
+            "ef": 1.87892,
+            "position": 1
+        },
+        "Equatorial Guinea" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.593,
+            "ef": 1.875916,
+            "position": 1
+        },
+        "Swaziland" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.586,
+            "ef": 1.858447,
+            "position": 1
+        },
+        "Egypt" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.694,
+            "ef": 1.811106,
+            "position": 1
+        },
+        "Cuba" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.774,
+            "ef": 1.777225,
+            "position": 1
+        },
+        "Nicaragua" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.657,
+            "ef": 1.758868,
+            "position": 1
+        },
+        "Papua New Guinea" : {
+            "radius": "M",
+            "ring": 5,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.543,
+            "ef": 1.746568,
+            "position": 1
+        },
+        "Iraq" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.672,
+            "ef": 1.744809,
+            "position": 1
+        },
+        "Sao Tome and Principe" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.584,
+            "ef": 1.72324,
+            "position": 1
+        },
+        "Dominican Republic" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.733,
+            "ef": 1.719456,
+            "position": 1
+        },
+        "Ecuador" : {
+            "radius": "M",
+            "ring": 1,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.749,
+            "ef": 1.711169,
+            "position": 1
+        },
+        "Morocco" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.662,
+            "ef": 1.700269,
+            "position": 1
+        },
+        "Moldova" : {
+            "radius": "M",
+            "ring": 2,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.697,
+            "ef": 1.7,
+            "position": 1
+        },
+        "Indonesia" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.691,
+            "ef": 1.68999,
+            "position": 1
+        },
+        "Niger" : {
+            "radius": "M",
+            "ring": 6,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.351,
+            "ef": 1.661427,
+            "position": 1
+        },
+        "Myanmar" : {
+            "radius": "M",
+            "ring": 4,
+            "type": "Grow",
+            "color": "#FD853F",
+            "hdi": 0.574,
+            "ef": 1.660481,
+            "position": 1
+        },
+        "Kyrgyzstan" : {
+            "radius": "M",
+            "ring": 3,
+            "type": "Grow",
+            "color": "#998360",
+            "hdi": 0.669,
+            "ef": 1.65522,
+            "position": 1
+        },
+        "Jamaica" : {
+            "radius": "S",
+            "ring": 1,
+            "type": "Build",
+            "color": "#998360",
+            "hdi": 0.732,
+            "ef": 1.612328,
+            "position": 1
+        },
+        "Mali" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.421,
+            "ef": 1.573614,
+            "position": 1
+        },
+        "Guinea" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.449,
+            "ef": 1.559029,
+            "position": 1
+        },
+        "Honduras" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.614,
+            "ef": 1.551633,
+            "position": 1
+        },
+        "Chad" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.405,
+            "ef": 1.515238,
+            "position": 1
+        },
+        "Sri Lanka" : {
+            "radius": "S",
+            "ring": 1,
+            "type": "Build",
+            "color": "#998360",
+            "hdi": 0.768,
+            "ef": 1.494943,
+            "position": 1
+        },
+        "Guinea-Bissau" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.453,
+            "ef": 1.482628,
+            "position": 1
+        },
+        "South Sudan" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.394,
+            "ef": 1.451328,
+            "position": 1
+        },
+        "Cape Verde" : {
+            "radius": "S",
+            "ring": 3,
+            "type": "Build",
+            "color": "#998360",
+            "hdi": 0.652,
+            "ef": 1.433073,
+            "position": 1
+        },
+        "Benin" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.512,
+            "ef": 1.419208,
+            "position": 1
+        },
+        "Cambodia" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.576,
+            "ef": 1.390911,
+            "position": 1
+        },
+        "Syria" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.536,
+            "ef": 1.381586,
+            "position": 1
+        },
+        "Lesotho" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.516,
+            "ef": 1.378758,
+            "position": 1
+        },
+        "Cameroon" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.553,
+            "ef": 1.378365,
+            "position": 1
+        },
+        "Philippines" : {
+            "radius": "S",
+            "ring": 2,
+            "type": "Build",
+            "color": "#998360",
+            "hdi": 0.696,
+            "ef": 1.329961,
+            "position": 1
+        },
+        "Comoros" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.502,
+            "ef": 1.242688,
+            "position": 1
+        },
+        "Tanzania" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.533,
+            "ef": 1.221801,
+            "position": 1
+        },
+        "Sudan" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.499,
+            "ef": 1.219618,
+            "position": 1
+        },
+        "Central African Republic" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.362,
+            "ef": 1.218006,
+            "position": 1
+        },
+        "Burkina Faso" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.42,
+            "ef": 1.204274,
+            "position": 1
+        },
+        "Sierra Leone" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.413,
+            "ef": 1.189577,
+            "position": 1
+        },
+        "Cote d'Ivoire" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.486,
+            "ef": 1.181907,
+            "position": 1
+        },
+        "India" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.636,
+            "ef": 1.168769,
+            "position": 1
+        },
+        "Senegal" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.499,
+            "ef": 1.141731,
+            "position": 1
+        },
+        "Liberia" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.432,
+            "ef": 1.107338,
+            "position": 1
+        },
+        "Nigeria" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.53,
+            "ef": 1.088426,
+            "position": 1
+        },
+        "Zimbabwe" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.532,
+            "ef": 1.073541,
+            "position": 1
+        },
+        "Nepal" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.569,
+            "ef": 1.07121,
+            "position": 1
+        },
+        "Uganda" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.508,
+            "ef": 1.06304,
+            "position": 1
+        },
+        "Togo" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.5,
+            "ef": 1.055687,
+            "position": 1
+        },
+        "Congo" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.612,
+            "ef": 1.053687,
+            "position": 1
+        },
+        "Ethiopia" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.457,
+            "ef": 1.042388,
+            "position": 1
+        },
+        "Kenya" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.585,
+            "ef": 1.016973,
+            "position": 1
+        },
+        "Angola" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.577,
+            "ef": 1.014547,
+            "position": 1
+        },
+        "Gambia" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.457,
+            "ef": 1.002787,
+            "position": 1
+        },
+        "Tajikistan" : {
+            "radius": "S",
+            "ring": 3,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.647,
+            "ef": 0.947404,
+            "position": 1
+        },
+        "Zambia" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.586,
+            "ef": 0.947357,
+            "position": 1
+        },
+        "Madagascar" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.517,
+            "ef": 0.92903,
+            "position": 1
+        },
+        "Bangladesh" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.597,
+            "ef": 0.842297,
+            "position": 1
+        },
+        "Pakistan" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.56,
+            "ef": 0.833922,
+            "position": 1
+        },
+        "Mozambique" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.435,
+            "ef": 0.814097,
+            "position": 1
+        },
+        "Rwanda" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.52,
+            "ef": 0.762919,
+            "position": 1
+        },
+        "Malawi" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.474,
+            "ef": 0.738862,
+            "position": 1
+        },
+        "Afghanistan" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.494,
+            "ef": 0.726752,
+            "position": 1
+        },
+        "DR Congo" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.452,
+            "ef": 0.7,
+            "position": 1
+        },
+        "Haiti" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.496,
+            "ef": 0.675447,
+            "position": 1
+        },
+        "Yemen" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.462,
+            "ef": 0.669525,
+            "position": 1
+        },
+        "Burundi" : {
+            "radius": "S",
+            "ring": 6,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.418,
+            "ef": 0.658104,
+            "position": 1
+        },
+        "Eritrea" : {
+            "radius": "S",
+            "ring": 5,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.436,
+            "ef": 0.501114,
+            "position": 1
+        },
+        "Timor-Leste" : {
+            "radius": "S",
+            "ring": 4,
+            "type": "Build",
+            "color": "#FD853F",
+            "hdi": 0.631,
+            "ef": 0.496162,
+            "position": 1
+        }
+    }
+}
