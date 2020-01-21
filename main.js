@@ -706,6 +706,8 @@ playCentralCanvasInnerAnimation(2000, 500);
 playInnerText(2000, 500);
 
 
+// ANCHOR demo rings
+
 var demo = centralCanvasInner.append("g").attr("id", "demo");
 var demoRings = demo.append("g").attr("id", "demoRings");
 
@@ -720,6 +722,8 @@ var drawDemoRing1 = demoRings
   .style("stroke-width", 1)
   .style("fill", "none");
 var totalLengthRing1 = drawDemoRing1.node().getTotalLength();
+console.log(totalLengthRing1);
+
 drawDemoRing1
   .attr("stroke-dasharray", totalLengthRing1 + " " + totalLengthRing1)
   .attr("stroke-dashoffset", totalLengthRing1);
@@ -740,6 +744,8 @@ drawDemoRing2
   .attr("stroke-dashoffset", totalLengthRing2);
 
 function playDemoRing1Animation(duration, delay) {
+  console.log('Drawed 1 ring');
+  
   drawDemoRing1
     .transition()
     .duration(duration)
@@ -755,6 +761,7 @@ function playDemoRing1AnimationReverse(duration, delay) {
 }
 
 function playDemoRing2Animation(duration, delay) {
+  console.log('Drawed 2 ring');
   drawDemoRing2
     .transition()
     .duration(duration)
@@ -814,6 +821,7 @@ var demoCircles = [
   }
 ];
 
+// ANCHOR demo circles
 var drawDemoCircles = demo
   .append("g")
   .attr("id", "demoCircles")
@@ -839,6 +847,7 @@ var drawDemoCircles = demo
   });
 
 function playCircleAnimation(item, circleDuration, circleDelay) {
+  console.log('Drawed ' + item + ' circle');
   var element = d3.select("#demoCircle" + item);
   element
     .transition()
