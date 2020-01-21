@@ -14,10 +14,10 @@ body {
     justify-content: center;
 }
 
-#centralCanvas {
-    /* position: relative; */
-    /* margin-left: 5%; */
-}
+/* #centralCanvas {
+    position: relative;
+    margin-left: 5%;
+} */
 
 .dot:hover {
     filter: drop-shadow( 0px 30px 0px rgba(255, 255, 255, 0.5));
@@ -393,13 +393,13 @@ input, select {
 
 
 
-.legend-content {
+/* .legend-content {
 
 }
 .legend-active
 .legend-content {
 
-}
+} */
 
 
 
